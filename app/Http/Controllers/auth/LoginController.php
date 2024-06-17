@@ -33,7 +33,7 @@ class LoginController extends Controller
     }
 
     /**
-    * THIS IS THE FUNCTION USED TO LOGIN USER
+    * THIS IS THE FUNCTION USED TO LOGOUT USER
     * @method GET
     * @author KEVANGI PATEL
     * @route /logout
