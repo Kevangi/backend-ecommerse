@@ -17,7 +17,7 @@ class RegisterController extends Controller
     * THIS IS THE FUNCTION USED TO REGISTER USER
     * @method POST
     * @author KEVANGI PATEL
-    * @route /logout
+    * @route /register
     * @param \Illuminate\Http\Request $request
     * @return \Illuminate\Http\Response
     */
